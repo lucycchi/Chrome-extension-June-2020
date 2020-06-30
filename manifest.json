@@ -1,9 +1,10 @@
 {
-  "name": "Getting Started Example",
+  "name": "Nicholas and Lucy's Chrome Extension",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Work Break Timer",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
+  "authors": "Lucy and Nicholas",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
